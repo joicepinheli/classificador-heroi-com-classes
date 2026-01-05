@@ -121,4 +121,3 @@ O {tipo} atacou usando {ataque}
 ```
 
 Permitindo simular diferentes heróis e seus ataques personalizados.
-```
